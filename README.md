@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiranmarques
-- 👀 I’m interested in information technology, analysis and systems development
-- 🌱 I’m currently learning several languages such as Python, C, Html, Css, SQL Data analysis and Scrum.
+- 👀 I’m interested in information technology, analysis and systems development.
+- 🌱 I’m currently learning several languages such as Python; C; Html; Css; SQL; Data analysis; Agile methodologies and Scrum.
 - 💞️ I’m looking to collaborate on environments that value innovation and digital transformation, leveraging technology to create value and drive growth.
 - 📫 Get in touch via my Linkedin: https://www.linkedin.com/in/hiran-marques/
 
