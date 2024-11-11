@@ -1,37 +1,75 @@
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Antonio+Gabriel;I'm+a+Developer;And+Student+of+Systems+Analysis+ana+Development)](https://git.io/typing-svg)
 
+<h3 align="center">"Talk is cheap. Show me the code"</h3>
+<h4 align="center">- Linus Torvalds -</h4>
 
-- 👋 Hi, I’m @hiranmarques
-- 👀 I’m interested in Information Technology; Analysis and Systems Development.
-- 🌱 I’m currently learning several languages such as Python; C; Html; Css; SQL; Data analysis; Agile methodologies and Scrum.
-- 💞️ I’m looking to collaborate on environments that value innovation and digital transformation, leveraging technology to create value and drive growth.
-- 📫 Get in touch via my Linkedin: https://www.linkedin.com/in/hiran-marques/
+<br>
 
- 
- <div>
-  <a href="https://github.com/hiranmarques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiranmarques&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiranmarques&layout=compact&theme=radical"/>
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=GabaDev2412&theme=radical&show_icons=true&include_all_commits=true" />
+ <img width=34% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabaDev2412&layout=compact&theme=radical" />
 </div>
 
+<br>
 
+## Language and Tools
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+#### Main Stack:
 
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/docs.php)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
 
-<!---
-hiranmarques/hiranmarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Studying in this moment:
+
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>](https://docker.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=spring"/>](https://www.sring.com/)
+
+#### Tools:
+
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+
+<br>
+
+## Academic Background:
+
+[<img align="left" height="94px" width="94px" style="margin: 5px;" alt="Warpnet" src="https://bancariospb.com.br/wp-content/uploads/2021/04/unipe.jpg"/>](https://www.unipe.edu.br/)
+**Analysis and Systems Development** \
+[**UNIPÊ**](https://www.unipe.edu.br/) • In progress\
+Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
+`Project Management` `Software Development` `Software Security` `Software Quality`
+
+[<img align="left" height="94px" width="94px" style="margin: 5px;" alt="Warpnet" src="https://asset.brandfetch.io/idUQfJyQk7/idX7UJdxye.jpeg"/>](https://www.dio.me/)
+**Java development bootcamp with AWS cloud** \
+[**Digital Innovation One**](https://www.dio.me/) • In progress \
+Skills: `Object-Oriented Paradigm` `API's` `UML` `Logic and Computational Thinking` `AWS` `SQL` `NoSQL` `Git` `GitHub` `Microservices` `Spring` `Spring Security` `Spring Boot` `Swagger` `Design Patterns`
+
+<br>
+
+## Contact me:
+
+<a href="https://www.dio.me/users/antonio_gabrielTI" style="display: inline-block; padding: 10px 20px; border-radius: 5px; text-decoration: none; color: #fff; font-family: Arial, sans-serif; font-weight: bold; text-transform: uppercase; background: linear-gradient(to right, #3498db, #e74c3c); transition: background-color 0.3s ease;">Meu Perfil na DIO</a>
+
+[![E-mail](https://img.shields.io/badge/-Email-054F77?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hiran2510!gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiran-marques/)
+
+ 
+<div align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nerigleston/count.svg"/>
+</div>
+
+---
+
+Credit: [Hiran Marques](https://github.com/hiranmarques)
+Last Edited on: 15/10/2024
