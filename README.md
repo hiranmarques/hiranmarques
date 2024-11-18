@@ -58,7 +58,7 @@ Skills: `Object-Oriented Paradigm` `API's` `UML` `Logic and Computational Thinki
 
 ## Contact me:
 
-<a href="https://www.dio.me/users/antonio_gabrielTI" style="display: inline-block; padding: 10px 20px; border-radius: 5px; text-decoration: none; color: #fff; font-family: Arial, sans-serif; font-weight: bold; text-transform: uppercase; background: linear-gradient(to right, #3498db, #e74c3c); transition: background-color 0.3s ease;">Meu Perfil na DIO</a>
+<a href="https://www.dio.me/users/hiran2510" style="display: inline-block; padding: 10px 20px; border-radius: 5px; text-decoration: none; color: #fff; font-family: Arial, sans-serif; font-weight: bold; text-transform: uppercase; background: linear-gradient(to right, #3498db, #e74c3c); transition: background-color 0.3s ease;">Meu Perfil na DIO</a>
 
 [![E-mail](https://img.shields.io/badge/-Email-054F77?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hiran2510!gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiran-marques/)
