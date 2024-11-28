@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Antonio+Gabriel;I'm+a+Developer;And+Student+of+Systems+Analysis+ana+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+HIRAN+MARQUES;I'm+a+Developer;And+Student+of+Systems+Analysis+ana+Development)](https://git.io/typing-svg)
 
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
@@ -6,8 +6,8 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=GabaDev2412&theme=radical&show_icons=true&include_all_commits=true" />
- <img width=34% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabaDev2412&layout=compact&theme=radical" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=hiranmarques2412&theme=radical&show_icons=true&include_all_commits=true" />
+ <img width=34% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiranmarques&layout=compact&theme=radical" />
 </div>
 
 <br>
