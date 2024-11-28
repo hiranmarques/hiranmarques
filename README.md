@@ -6,7 +6,7 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=hiranmarques2412&theme=radical&show_icons=true&include_all_commits=true" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=hiranmarques&theme=radical&show_icons=true&include_all_commits=true" />
  <img width=34% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiranmarques&layout=compact&theme=radical" />
 </div>
 
