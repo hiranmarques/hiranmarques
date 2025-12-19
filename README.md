@@ -54,7 +54,7 @@ Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture`
 
 [<img align="left" height="94px" width="94px" style="margin: 5px;" alt="Warpnet" src="https://asset.brandfetch.io/idUQfJyQk7/idX7UJdxye.jpeg"/>](https://www.dio.me/)
 **Java development bootcamp with AWS cloud** \
-[**Digital Innovation One**]([https://www.dio.me](https://www.dio.me/users/hiran2510)/) • In progress \
+[**Digital Innovation One**]([https://www.dio.me](https://www.dio.me/users/hiran2510)/) • Completed \
 Skills: `Object-Oriented Paradigm` `API's` `UML` `Logic and Computational Thinking` `AWS` `SQL` `NoSQL` `Git` `GitHub` `Microservices` `Spring` `Spring Security` `Spring Boot` `Swagger` `Design Patterns`
 
 <br>
