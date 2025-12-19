@@ -45,9 +45,12 @@
 
 [<img align="left" height="94px" width="94px" style="margin: 5px;" alt="Warpnet" src="https://bancariospb.com.br/wp-content/uploads/2021/04/unipe.jpg"/>](https://www.unipe.edu.br/)
 **Analysis and Systems Development** \
-[**UNIPÊ**](https://www.unipe.edu.br/) • In progress\
+[**UNIPÊ**](https://www.unipe.edu.br/) • Completed\
+**Artificial intelligence and Machine Learning** \
+[**PUC MINAS**](https://www.pucminas.br/destaques/Paginas/default.aspx) • In Progress\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
-`Project Management` `Software Development` `Software Security` `Software Quality`
+`Project Management` `Software Development` `Software Security` `Cloud Computing: AWS` `Visualization and BI: Power BI, DAX, Power Query`
+`Database: SQL, PostgreSQL` `DevOps: Docker, Git, GitHub` `Data Science: Data Analytics, Machine Learning`  `Artificial Intelligence: Deep Learning, AI Agents, Learning Language Modeling (LLMs), Predictive Analytics.`
 
 [<img align="left" height="94px" width="94px" style="margin: 5px;" alt="Warpnet" src="https://asset.brandfetch.io/idUQfJyQk7/idX7UJdxye.jpeg"/>](https://www.dio.me/)
 **Java development bootcamp with AWS cloud** \
