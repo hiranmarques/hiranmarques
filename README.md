@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome to my GitHub profile! My name is Hiran Marques. I am a software developer focused on Artificial Intelligence, process automation, and data-driven solutions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Hiran+Marques.;Software+Developer+focused+on+AI%2C;Process+Automation+and+Data-Driven+Solutions.)](https://git.io/typing-svg)
 
 <h3 align="center">"AI & Automation Engineer | Building Intelligent Systems, Data Products & Business Process Automation"</h3>
 <h4 align="center">- Analista de Sistemas -</h4>
